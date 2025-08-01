@@ -10,3 +10,49 @@ Currently, two official plugins are available:
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+
+# uTask-Using React
+
+Developed a responsive and user-friendly task management web application using React. The app allows users to add, delete, and manage daily tasks efficiently. Features include real-time input validation, persistent task storage using localStorage, and dynamic task updates with state management via useState and useEffect. The interface is clean and intuitive, supporting productivity with minimal distractions. Built as a hands-on project to implement key React concepts and component-based architecture.
+
+
+## Documentation
+
+[Documentation](https://react.dev/)
+
+
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/Gothxam/uTask.git
+```
+
+Go to the project directory
+
+```bash
+  cd my-project
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npm run dev
+```
+
+
+## Tech Stack
+
+**Client:** React, BootstrapCSS
+
+**Server:** vite
+
+
